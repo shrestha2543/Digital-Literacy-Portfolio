@@ -1,7 +1,7 @@
 # Cyberbullying Prevention and Support
 A concise guide to staying safe online and accessing help.
 ---
-## Prevention Checklist
+## Social Media Checklist
 - [ ] **1. Private Profiles:** Set accounts to "Friends only" to control who can view your content.
 - [ ] **2. The billboard Test:** Don't post anything you wouldn't want on a giant public sign.
 - [ ] **3. Enable Mfa:** Enable Multi-Factor Authentication to prevent account hijacking.
