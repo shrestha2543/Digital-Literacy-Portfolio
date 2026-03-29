@@ -2,9 +2,9 @@
 ## 1. Introduction
 In this day and age, the boundary between our physical and digital lives has vanished. While this connectivity fosters global innovation, it also provides a ground for **cyberbullying**—the intentional and repeated harm inflicted through the use of computers, smartphones, and other electronic devices. It is a systemic issue that transcends age, geography, and social status.
 ## 2. Nature of the crime
-Cyberbullying is distinct from traditional bullying due to three primary factors:
+Cyberbullying is distinct from traditional bullying due to three main factors:
 * **Anonymity:** Perpetrators often hide behind pseudonyms, leading to a "digital unhibitness effect."
-* **Reach:** Harassment is not confined to a playground; it can be witnessed by thousands instantly.
+* **Reach:** Harassment is not merely confined to a playground, it can be witnessed by thousands instantly.
 * **Permanence:** Digital footprints are hard to erase, meaning the abuse can follow a victim for years.
 ## 3. How it happens
 Digital harassement manifests through various technical and social methods:
@@ -23,7 +23,7 @@ The fallout of cyberbullying is often devastating:
 ## 6. Real-life scenario
 "Project X",a 2025 case where a student's private venting in a "locked" group chat was screenshotted and circulated. Within 24 hours,the student faces thousands of hateful comments from strangers globally. The victim was eventually forced to change schools and relocate, indicating how a single digital click can derail a life.
 ## 7. Conclusion
-Cyberbullying is not a "rite of passage"; it is digital crisis. Combating it requires an approach that involves platform accountability, robust legal frameworks and a culture of **upstanding** - where bystanders take active roles in preventing abuse and supporting victims.
+Cyberbullying is not a "rite of passage"; it is digital crisis. to deal with it, we need an approach that involves platform accountability, robust legal frameworks and a culture of **upstanding** - where bystanders take active roles in stop all forms of abuse and support victims.
 ## 8. References
 1. *Cyberbullying research center(2025):* Annual statistics on Digital Harassement Trends.
 2. *Journal of Adolescent Health:* Long-term psychological impacts of Peer Victimization.
